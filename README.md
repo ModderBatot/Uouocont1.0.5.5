@@ -1,6 +1,6 @@
 {
   "Device1": {
-    "Token_id": "♥️",
+    "Token_id": "vZZEj8=2gA9a",
     "Expired_Date": "9999-09-09",
     "is_active": "true"
   },
