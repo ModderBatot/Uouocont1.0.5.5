@@ -5,7 +5,7 @@
     "is_active": "true"
   },
   "Device2": {
-    "Token_id": "tEVCShK-$P3D",
+    "Token_id": "♥️",
     "Expired_Date": "9999-09-09",
     "is_active": "true"
   },
